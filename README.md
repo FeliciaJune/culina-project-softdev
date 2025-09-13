@@ -7,7 +7,7 @@ This application is built using **PHP, HTML, and CSS** for the frontend and back
 This website layout is optimized for **desktop view**. Some elements may not be fully responsive on mobile devices.
 
 ## Demo
-Website link: (https://culina.rf.gd/CULINA/)
+Website link: https://culina.rf.gd/CULINA/
 
 ## Project Structure
 The repository contains the following main files and folders:
@@ -66,6 +66,7 @@ View complete recipe information including:
 - **Google Fonts** – Typography 
 - **PhpMyAdmin** – Database management
 - **XAMPP** – Local development server
+  
+## Developers
+This project was created by **Felicia June** together with other team members as part of the Software Development course.
 
-## Developer
-**Felicia June**
