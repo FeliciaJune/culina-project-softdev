@@ -45,17 +45,17 @@ The repository contains the following main files and folders:
 - `README.md` → Project documentation
 
 ## Key Features
-**Recipe Search & Filter**
-- Find recipes based on:
-  1. Recipe category (Healthy, Western, Asian, Others)
-  2. Cooking time (e.g., 30 minutes)  
-  3. Main ingredients entered by the user
-  4. Name of dish  
-**Recipe Details**
-- View complete recipe information including:
-  1. Name, image, ingredients, cooking steps, and time
-  2. Nutrition facts and estimated calories  
-**Weekly Meal Plan**
+### Recipe Search & Filter
+Find recipes based on:
+- Recipe category (Healthy, Western, Asian, Others)  
+- Cooking time (e.g., under 30 minutes)  
+- Main ingredients entered by the user  
+- Name of the dish  
+### Recipe Details
+View complete recipe information including:
+- Name, image, ingredients, cooking steps, and time  
+- Nutrition facts and estimated calories  
+### Weekly Meal Plan
 - Create and organize a weekly cooking plan based on selected recipes
 
 ## Technologies Used
